@@ -1,1 +1,1 @@
-# template-webpack
+# template-webpack-lint
